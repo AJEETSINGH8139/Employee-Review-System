@@ -43,7 +43,7 @@ git clone https://github.com/AJEETSINGH8139/Employee-Review-System.git
 3. Change directory to Ecomerce-API
 
 ```go
-cd employee-review-system
+cd Employee-review-system
 ```
 
 3. Install dependencies
@@ -76,7 +76,7 @@ npm start
 here you are looking at directory structure with root level files only.
 
 ```sh
-employee-review-system
+Employee-review-system
 ├── assets
 │   ├── images
 │   ├── scripts
