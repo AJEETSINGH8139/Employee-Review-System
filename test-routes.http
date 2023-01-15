@@ -9,7 +9,7 @@ GET http://localhost:8000/employee HTTP/1.1
 ### ****************      USER  **********
 
 ### link to create first admin 
-get http://localhost:8000/user/wizzenalum HTTP/1.1
+get http://localhost:8000/user/ajeet HTTP/1.1
 
 ### sign in sign up form will appear here toggle by js. 
 get http://localhost:8000/ HTTP/1.1

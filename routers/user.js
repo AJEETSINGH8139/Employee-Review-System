@@ -12,7 +12,7 @@ router.get("/session/destroy", userController.sessionDestroy);
 
 // all the following work only be can done by a admin so 
 // TODO add admin authentication. for current user.
-router.get("/wizzenalum",userController.superUser);
+router.get("/ajeet",userController.superUser);
 router.post("/create",passport.autherizedAdmin, userController.create);
 // admin updating the employee data.
 router.post("/:id/update",passport.autherizedAdmin, userController.update);
